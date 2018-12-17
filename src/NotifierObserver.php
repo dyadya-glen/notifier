@@ -1,9 +1,6 @@
 <?php
 
-namespace Ntschool\Notifier\Adapter;
-
-use Ntschool\Notifier\NotifierAdapterInterface;
-use Ntschool\Notifier\NotifierObserverInterface;
+namespace Ntschool\Notifier;
 
 class NotifierObserver implements NotifierObserverInterface
 {
